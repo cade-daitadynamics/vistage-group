@@ -1,23 +1,30 @@
 [
   {
     "name": "David Fuller",
-    "title": "Fractional Chief Revenue Officer & Founder",
+    "title": "Founder | Fractional CRO | GTM Advisor",
     "company": "Portco Revenue Advisors",
     "company_url": "https://portcorevenueadvisors.com",
     "linkedin_url": "https://www.linkedin.com/in/davidfuller6/",
     "headshot_url": "",
-    "tagline": "Helping business owners build predictable, scalable revenue growth",
-    "what_we_do": "We provide fractional CRO and advisory services for lower to mid-sized corporations, bringing Go-To-Market teams into alignment with your organization's North Star. We guide turnarounds, add-ons, and high-growth companies through strategic planning, sales structure refinement, process enhancement, and management development.",
-    "who_we_help": "Business owners and private equity portfolio companies ($5M-$50M revenue) facing inconsistent sales growth, underachieving talent, poor customer retention, or inefficient systems who are ready to make the changes necessary to grow revenue.",
+    "tagline": "Helping companies build predictable, scalable revenue growth",
+    "what_we_do": "Portco Revenue Advisors provides fractional CRO and go-to-market advisory services for lower-to-mid-market companies. We align strategy, people, process, and execution around a clear North Star, so revenue becomes predictable and not dependent on heroics. We partner with leadership teams to lead turnarounds, support add-on growth, and scale high-growth organizations through disciplined planning, structure design, process optimization, and leadership development.",
+    "who_we_help": "Business owners and CEOs of PE-backed companies ($10M–$50M in revenue) that are not comfortable with the predictability and growth of their revenue, not confident and prepared to scale their business profitably, or not satisfied with their company's value and/or positioned to accelerate their exit.",
     "key_services": [
-      "Fractional CRO services",
-      "Revenue operations consulting",
-      "Due diligence for PE firms",
-      "Sales process optimization",
-      "Go-to-market strategy"
+      "Fractional Chief Revenue Officer (CRO) leadership",
+      "Go-to-market strategy and execution",
+      "Sales process and operating model optimization",
+      "Revenue operations and forecasting discipline",
+      "Due diligence and value-creation support for PE-backed companies"
     ],
-    "differentiator": "100% of Portco Advisors' clients have improved their revenue performance. We work exclusively with owners who are as committed to transformational change as we are.",
-    "notable_results": "Helped PE-backed manufacturing companies and SMBs increase revenue predictability and hit valuation targets before liquidity events.",
+    "differentiator": "Every Portco Revenue Advisors client has improved revenue performance. We work exclusively with owners and investors who are serious about transformational change and who want a repeatable system for growth, not short-term fixes.",
+    "notable_results_intro": "Average improvement of Value Drivers for 27 companies",
+    "notable_results": [
+      "12% Increased Profit Margin",
+      "38% YoY Revenue Growth",
+      "45% Boosted New-Hire Productivity",
+      "15% Increased Customer Retention",
+      "39% Improved Pipeline Velocity"
+    ],
     "cta_text": "Schedule a consultation",
     "cta_link": "https://portcorevenueadvisors.com"
   },

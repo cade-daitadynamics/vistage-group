@@ -130,8 +130,8 @@ export default function MemberCard({ member }: MemberCardProps) {
 
       {/* Expanded content */}
       <div
-        className={`overflow-hidden transition-all duration-300 ease-in-out ${
-          isExpanded ? "max-h-[1000px] opacity-100" : "max-h-0 opacity-0"
+        className={`transition-all duration-300 ease-in-out ${
+          isExpanded ? "max-h-[3000px] opacity-100" : "max-h-0 overflow-hidden opacity-0"
         }`}
       >
         <div className="border-t border-gray-100 bg-slate-50/50 px-6 pb-6 pt-5">
@@ -187,9 +187,24 @@ export default function MemberCard({ member }: MemberCardProps) {
             <h4 className="mb-2 text-xs font-semibold uppercase tracking-wider text-navy-800">
               Notable Results
             </h4>
-            <p className="text-sm leading-relaxed text-gray-600">
-              {member.notable_results}
-            </p>
+            {Array.isArray(member.notable_results) ? (
+              <>
+                {member.notable_results_intro && (
+                  <p className="mb-2 text-sm text-gray-600">
+                    {member.notable_results_intro}
+                  </p>
+                )}
+                <ul className="list-disc space-y-1 pl-5 text-sm text-gray-600">
+                  {member.notable_results.map((result, index) => (
+                    <li key={index}>{result}</li>
+                  ))}
+                </ul>
+              </>
+            ) : (
+              <p className="text-sm leading-relaxed text-gray-600">
+                {member.notable_results}
+              </p>
+            )}
           </div>
 
           {/* Action buttons */}

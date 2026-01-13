@@ -10,7 +10,8 @@ export interface Member {
   who_we_help: string;
   key_services: string[];
   differentiator: string;
-  notable_results: string;
+  notable_results: string | string[];
+  notable_results_intro?: string;
   cta_text: string;
   cta_link: string;
 }
