@@ -161,26 +161,26 @@
     "cta_link": "https://www.teamlogicit.com/HighlandsRanchCO616/"
   },
   {
-    "name": "Cade Dannels",
-    "title": "Founder",
-    "company": "Daita Dynamics",
-    "company_url": "https://www.daitadynamics.com/",
-    "linkedin_url": "https://www.linkedin.com/in/cade-dannels-b2a4651b7/",
+    "name": "Ed Lee",
+    "title": "Senior Wealth Consultant | Investment Advisor",
+    "company": "The Integrity Wealth Group",
+    "company_url": "https://www.theintegritywealthgroup.com/",
+    "linkedin_url": "https://www.linkedin.com/in/edleedenver/",
     "headshot_url": "",
-    "tagline": "Helping B2B businesses unlock AI and automation without the overwhelm",
-    "what_we_do": "We help B2B service businesses unlock AI, automation, and smarter data strategies. We walk into your business, roll up our sleeves, and show you exactly where AI can help you right now—and what it takes to scale it later. From lead generation automation to connecting all your software systems, we make technology work for you.",
-    "who_we_help": "B2B service business owners who feel the pressure to 'do something' with AI but aren't sure where to start, or if it's even relevant to them.",
+    "tagline": "Helping executives, families, and business owners achieve their financial goals",
+    "what_we_do": "We develop custom wealth accumulation and distribution strategies that cover everything from retirement planning, tax strategies, estate preservation, real estate aquisition and much more. We provide regular check-ups to ensure your plan evolves with your life over time.",
+    "who_we_help": "Executives, families, and small business owners who want a clear, customized plan for their financial success—covering tax strategies, real estate acquisition, custom investment solutions and much more.",
     "key_services": [
-      "AI strategy & implementation",
-      "Business process automation",
-      "Lead generation systems",
-      "Data integration & analytics",
-      "Custom AI solutions"
+      "Financial planning",
+      "Retirement planning",
+      "Investment management",
+      "Insurance solutions",
+      "Estate planning"
     ],
-    "differentiator": "Since 2020, we've helped businesses across industries make AI approachable and useful. We focus on practical solutions that save time, avoid bottlenecks, and let teams focus on what matters most—without adding overhead or complexity.",
-    "notable_results": "Created lead generation automation systems that help clients reach more relevant leads faster, and connected software systems so 'things just happen like magic'—making small businesses feel like innovative tech companies.",
-    "cta_text": "Get an AI opportunity assessment",
-    "cta_link": "https://www.daitadynamics.com/"
+    "differentiator": "With a true passion for helping clients develop clear plans for financial success, I've been helping people since 2004. I broker every major investment company in the country with thousands of solutions available. I'm a fiduciary advisor that has 5 securities licenses and 2 insurance licenses giving me the ability to offer solutions others can't. For the last dozen years, I've run a mentor program for kids ages 6-12 in foster care—because giving back is very important to me.",
+    "notable_results": "Helped clients across the Denver metro area achieve their short and long-term financial goals through comprehensive planning that looks at the whole picture, not just the investments.",
+    "cta_text": "Schedule a consultation",
+    "cta_link": "https://go.oncehub.com/edlee"
   },
   {
     "name": "Dan Mahoney",
@@ -205,25 +205,25 @@
     "cta_link": "https://www.piercom.com/denver/"
   },
   {
-    "name": "Ed Lee",
-    "title": "Financial Planner",
-    "company": "The Integrity Wealth Group",
-    "company_url": "https://www.theintegritywealthgroup.com/",
-    "linkedin_url": "https://www.linkedin.com/in/edleedenver/",
+    "name": "Cade Dannels",
+    "title": "Founder",
+    "company": "Daita Dynamics",
+    "company_url": "https://www.daitadynamics.com/",
+    "linkedin_url": "https://www.linkedin.com/in/cade-dannels-b2a4651b7/",
     "headshot_url": "",
-    "tagline": "Helping individuals, families, and businesses achieve their financial goals",
-    "what_we_do": "We develop custom financial and wealth strategies that cover everything from disability, life, and long-term care insurance to retirement planning, tax strategies, and estate preservation. We provide regular check-ups to ensure your plan evolves with your life.",
-    "who_we_help": "Individuals, families, and small business owners who want a clear, customized plan for their financial success—covering tax savings, cash flow management, debt consolidation, real estate acquisition, and more.",
+    "tagline": "Helping B2B businesses unlock AI and automation without the overwhelm",
+    "what_we_do": "We help B2B service businesses unlock AI, automation, and smarter data strategies. We walk into your business, roll up our sleeves, and show you exactly where AI can help you right now—and what it takes to scale it later. From lead generation automation to connecting all your software systems, we make technology work for you.",
+    "who_we_help": "B2B service business owners who feel the pressure to 'do something' with AI but aren't sure where to start, or if it's even relevant to them.",
     "key_services": [
-      "Financial planning",
-      "Retirement planning",
-      "Investment management",
-      "Insurance solutions",
-      "Estate planning"
+      "AI strategy & implementation",
+      "Business process automation",
+      "Lead generation systems",
+      "Data integration & analytics",
+      "Custom AI solutions"
     ],
-    "differentiator": "With a true passion for helping clients develop clear plans for financial success, I've been helping people since 2004. I also run a mentor program for kids ages 6-12 in foster care—because giving back is close to my heart.",
-    "notable_results": "Helped clients across the Denver metro area achieve their short and long-term financial goals through comprehensive planning that looks at the whole picture, not just investments.",
-    "cta_text": "Schedule a consultation",
-    "cta_link": "https://www.theintegritywealthgroup.com/"
+    "differentiator": "Since 2020, we've helped businesses across industries make AI approachable and useful. We focus on practical solutions that save time, avoid bottlenecks, and let teams focus on what matters most—without adding overhead or complexity.",
+    "notable_results": "Created lead generation automation systems that help clients reach more relevant leads faster, and connected software systems so 'things just happen like magic'—making small businesses feel like innovative tech companies.",
+    "cta_text": "Get an AI opportunity assessment",
+    "cta_link": "https://www.daitadynamics.com/"
   }
 ]
